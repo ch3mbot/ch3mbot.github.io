@@ -1,0 +1,3 @@
+[submodule "math-practice"]
+	path = math-practice
+	url = https://github.com/ch3mbot/math-practice
