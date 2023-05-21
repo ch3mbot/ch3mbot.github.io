@@ -1,0 +1,20 @@
+#box {
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+  .text {
+    align-self: flex-start;
+  }
