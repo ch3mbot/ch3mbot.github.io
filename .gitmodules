@@ -1,6 +1,6 @@
 [submodule "math-practice"]
 	path = math-practice
 	url = https://github.com/ch3mbot/math-practice
-[submodule "testpage"]
-	path = testpage
-	url = https://github.com/ch3mbot/testpage
+[submodule "MakeCodeImageQuantizerJS"]
+	path = MakeCodeImageQuantizerJS
+	url = https://github.com/ch3mbot/MakeCodeImageQuantizerJS
